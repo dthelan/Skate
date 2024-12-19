@@ -1,0 +1,7 @@
+<permissions>
+    <permission>System.START_ACTIVITY</permission>
+    <permission>System.WRITE_GPX</permission>
+    <permission>System.NETWORK</permission>
+    <permission>System.SENSOR</permission>
+    <permission>System.POSITION</permission>
+</permissions>
